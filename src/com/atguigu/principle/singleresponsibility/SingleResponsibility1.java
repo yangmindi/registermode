@@ -1,4 +1,4 @@
-package com.atguigu.principle.segregation;
+package com.atguigu.principle.singleresponsibility;
 
 public class SingleResponsibility1 {
     public static void main(String[] args) {
