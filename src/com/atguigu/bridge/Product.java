@@ -8,7 +8,7 @@ public abstract class Product {
         this.brand = brand;
     }
 
-//    protected getMessage(){
-//
-//    }
+    protected void getBrand(){
+        this.brand.getBrand();
+    }
 }
