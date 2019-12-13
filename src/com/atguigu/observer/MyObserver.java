@@ -1,5 +1,13 @@
 package com.atguigu.observer;
 
-public interface MyObserver {
-    public void response(int after,int status);//抽象响应方法
+public class MyObserver {
+    int n = 0;
+
+    public int getN() {
+        return n;
+    }
+
+    public void setN(int n) {
+        this.n = n;
+    }
 }

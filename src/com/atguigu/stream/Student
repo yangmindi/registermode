@@ -1,0 +1,3 @@
+class Student,
+property id int private,
+method cry boolean public,
